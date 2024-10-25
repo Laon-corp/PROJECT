@@ -1,0 +1,300 @@
+[logpanelCallback]
+Class="Function"
+Prototype="int logpanelCallback(int panel, int event, void *callbackData, int eventData1, int eventData2);"
+
+[msgclose]
+Class="Function"
+Prototype="int msgclose(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[msgpanelcallback]
+Class="Function"
+Prototype="int msgpanelcallback(int panel, int event, void *callbackData, int eventData1, int eventData2);"
+
+[msgtimercallback]
+Class="Function"
+Prototype="int msgtimercallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[UpdateErrMessage]
+Class="Function"
+Prototype="void UpdateErrMessage();"
+
+[ErrMsgCallback]
+Class="Function"
+Prototype="int ErrMsgCallback(int panel, int event, void *callbackData, int eventData1, int eventData2);"
+
+[ErrChkTimerCallback]
+Class="Function"
+Prototype="int ErrChkTimerCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[Comm_Set]
+Class="Function"
+Prototype="int Comm_Set(int panel, int event, void *callbackData, int eventData1, int eventData2);"
+
+[Lan_Set]
+Class="Function"
+Prototype="int Lan_Set(int panel, int event, void *callbackData, int eventData1, int eventData2);"
+
+[Err_Set]
+Class="Function"
+Prototype="int Err_Set(int panel, int event, void *callbackData, int eventData1, int eventData2);"
+
+[Pos_Set]
+Class="Function"
+Prototype="int Pos_Set(int panel, int event, void *callbackData, int eventData1, int eventData2);"
+
+[ErrView]
+Class="Function"
+Prototype="int ErrView(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[Switch_LanUse1]
+Class="Function"
+Prototype="int Switch_LanUse1(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[SysSetup1]
+Class="Function"
+Prototype="int SysSetup1(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[PortPar1]
+Class="Function"
+Prototype="int PortPar1(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[PortSetup1]
+Class="Function"
+Prototype="int PortSetup1(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[Opt_Set]
+Class="Function"
+Prototype="int Opt_Set(int panel, int event, void *callbackData, int eventData1, int eventData2);"
+
+[ContNgChkFlagCallback1]
+Class="Function"
+Prototype="int ContNgChkFlagCallback1(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[ByPass]
+Class="Function"
+Prototype="int ByPass(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[ByPass1]
+Class="Function"
+Prototype="int ByPass1(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[SpcOnOff1]
+Class="Function"
+Prototype="int SpcOnOff1(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[Cont_Module]
+Class="Function"
+Prototype="int Cont_Module(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[Save_ErrMsg]
+Class="Function"
+Prototype="void Save_ErrMsg();"
+
+[Work_Set]
+Class="Function"
+Prototype="int Work_Set(int panel, int event, void *callbackData, int eventData1, int eventData2);"
+
+[Work_Menu]
+Class="Function"
+Prototype="void Work_Menu(int menuBar, int menuItem, void *callbackData, int panel);"
+
+[WorkSetup10]
+Class="Function"
+Prototype="int WorkSetup10(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[WorkerSetup10]
+Class="Function"
+Prototype="int WorkerSetup10(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[Add0]
+Class="Function"
+Prototype="int Add0(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[Rename0]
+Class="Function"
+Prototype="int Rename0(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[Remove0]
+Class="Function"
+Prototype="int Remove0(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[SysSetup2]
+Class="Function"
+Prototype="int SysSetup2(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[A_Reverse]
+Class="Function"
+Prototype="int A_Reverse(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[A_Meas_Mode]
+Class="Function"
+Prototype="int A_Meas_Mode(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[Add_worker]
+Class="Function"
+Prototype="int Add_worker(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[ByPass2]
+Class="Function"
+Prototype="int ByPass2(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[ByPass3]
+Class="Function"
+Prototype="int ByPass3(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[ByPass4]
+Class="Function"
+Prototype="int ByPass4(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[ByPass6]
+Class="Function"
+Prototype="int ByPass6(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[ByPass7]
+Class="Function"
+Prototype="int ByPass7(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[ByPass8]
+Class="Function"
+Prototype="int ByPass8(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[ByPass9]
+Class="Function"
+Prototype="int ByPass9(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[ByPass11]
+Class="Function"
+Prototype="int ByPass11(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[SpcOnOff2]
+Class="Function"
+Prototype="int SpcOnOff2(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[IntPanelEvent]
+Class="Function"
+Prototype="int IntPanelEvent(int panel, int event, void *callbackData, int eventData1, int eventData2);"
+
+[ZeroSetMode2]
+Class="Function"
+Prototype="int ZeroSetMode2(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[ContNgChkFlagCallback2]
+Class="Function"
+Prototype="int ContNgChkFlagCallback2(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[Enc_Dir2]
+Class="Function"
+Prototype="int Enc_Dir2(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[SpcOnOff3]
+Class="Function"
+Prototype="int SpcOnOff3(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[ByPass2_3]
+Class="Function"
+Prototype="int ByPass2_3(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[ByPass2_5]
+Class="Function"
+Prototype="int ByPass2_5(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[AUTO_Retry2]
+Class="Function"
+Prototype="int AUTO_Retry2(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[DatapanelCall]
+Class="Function"
+Prototype="int DatapanelCall(int panel, int event, void *callbackData, int eventData1, int eventData2);"
+
+[View_garph]
+Class="Function"
+Prototype="int View_garph(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[View_Chdata]
+Class="Function"
+Prototype="int View_Chdata(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[setLanguage2]
+Class="Function"
+Prototype="int setLanguage2(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[ByPass2_2]
+Class="Function"
+Prototype="int ByPass2_2(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[CountOnOff]
+Class="Function"
+Prototype="int CountOnOff(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[Reset_Mc2]
+Class="Function"
+Prototype="int Reset_Mc2(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[Inspect]
+Class="Function"
+Prototype="int Inspect(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[ByPass2_4]
+Class="Function"
+Prototype="int ByPass2_4(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[Scan_OnOff]
+Class="Function"
+Prototype="int Scan_OnOff(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[Laser_OnOff]
+Class="Function"
+Prototype="int Laser_OnOff(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[Barcode_Check]
+Class="Function"
+Prototype="int Barcode_Check(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[GraphOnOff]
+Class="Function"
+Prototype="int GraphOnOff(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[MeasTaper]
+Class="Function"
+Prototype="int MeasTaper(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[Save_Model_Ref]
+Class="Function"
+Prototype="int Save_Model_Ref(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[Manualctrl5]
+Class="Function"
+Prototype="int Manualctrl5(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[Refer_bt5]
+Class="Function"
+Prototype="int Refer_bt5(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[A_Dataview5]
+Class="Function"
+Prototype="int A_Dataview5(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[Zero_Set5]
+Class="Function"
+Prototype="int Zero_Set5(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[Manualctrl7]
+Class="Function"
+Prototype="int Manualctrl7(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[A_Dataview7]
+Class="Function"
+Prototype="int A_Dataview7(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[Zero_Set7]
+Class="Function"
+Prototype="int Zero_Set7(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[Mark_Set5]
+Class="Function"
+Prototype="int Mark_Set5(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[ByPass10]
+Class="Function"
+Prototype="int ByPass10(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+

@@ -1,0 +1,164 @@
+CCFLAGS = -g ;
+HDRS = 	"c:\\Program Files (x86)\\National Instruments\\CVI2017\\include"
+	"c:\\PROJECT\\PROJECT2016\\17.Áß±¹ ¾ÆÅÂ\\DRUM\\Program Files\\National Instruments\\MeasurementStudio\\CVI\\spc\\samples"
+	"c:\\PROJECT\\PROJECT2016\\17.Áß±¹ ¾ÆÅÂ\\DRUM\\Program Files\\National Instruments\\MeasurementStudio\\CVI\\spc"
+	"c:\\CVI\\spc"
+	"c:\\CVI\\spc\\legend"
+	"c:\\program files (x86)\\national instruments\\cvi2017\\toolslib\\activex\\word"
+	"c:\\program files (x86)\\national instruments\\cvi2017\\toolslib\\activex\\excel"
+	"c:\\program files (x86)\\national instruments\\cvi2017\\toolslib\\custctrl"
+	"c:\\program files (x86)\\national instruments\\cvi2017\\toolslib\\custctrl\\custsupp"
+	"c:\\program files (x86)\\national instruments\\cvi2017\\toolslib\\cvirtsup"
+	"c:\\program files (x86)\\national instruments\\cvi2017\\toolslib\\datasock"
+	"c:\\program files (x86)\\national instruments\\cvi2017\\toolslib\\daqUtil"
+	"c:\\program files (x86)\\national instruments\\cvi2017\\toolslib\\printing"
+	"c:\\program files (x86)\\national instruments\\cvi2017\\toolslib\\toolbox"
+	"c:\\program files (x86)\\national instruments\\cvi2017\\toolslib\\reportgen"
+	"c:\\program files (x86)\\national instruments\\cvi2017\\toolslib\\localui"
+	"c:\\program files (x86)\\national instruments\\cvi2017\\instr"
+	"C:\\Program Files (x86)\\National Instruments\\Shared\\CVI\\toolslib\\custctrl"
+	"C:\\Program Files (x86)\\National Instruments\\Shared\\CVI\\toolslib\\custctrl\\custsupp"
+	"C:\\Program Files (x86)\\National Instruments\\Shared\\CVI\\instr"
+	"C:\\ProgramData\\National Instruments\\CVI2017\\instr"
+	"C:\\Program Files (x86)\\National Instruments\\Shared\\CVI\\include"
+	"C:\\ProgramData\\National Instruments\\CVI2017\\include"
+	"C:\\ProgramData\\National Instruments\\CVI\\include"
+	"c:\\program files (x86)\\national instruments\\cvi2017\\include\\ansi"
+	"c:\\program files (x86)\\national instruments\\cvi2017\\include\\clang\\3.3"
+	"C:\\Program Files (x86)\\IVI Foundation\\IVI\\Include"
+	"C:\\Program Files (x86)\\IVI Foundation\\VISA\\winnt\\include"
+	"C:\\Program Files (x86)\\National Instruments\\Shared\\MSDTRedistributables\\SDKHeaderFiles\\8.1"
+	"c:\\Program Files (x86)\\National Instruments\\CVI2017\\spc\\legend"
+	"c:\\Program Files (x86)\\National Instruments\\CVI2017\\spc"
+	"c:\\Program Files (x86)\\National Instruments\\CVI2017\\bin"
+	"c:\\ProgramData\\National Instruments\\CVI2017\\bin"
+	"c:\\Program Files (x86)\\National Instruments\\Shared\\CVI\\Bin"
+	;
+include Jamfile_instr ;
+LOCATE on "AMPCOM1.C" = "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0" ;
+LOCATE on "AMPCOM1.H" = "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0" ;
+LOCATE on "aux1_2.c" = "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0" ;
+LOCATE on "CalcFunc.c" = "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0" ;
+LOCATE on "Calcfunc.h" = "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0" ;
+LOCATE on "comconfig.h" = "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0" ;
+LOCATE on "EQUATION.C" = "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0" ;
+LOCATE on "EQUATION.H" = "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0" ;
+LOCATE on "KEYCODE.H" = "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0" ;
+LOCATE on "KEYPAD.C" = "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0" ;
+LOCATE on "KEYPAD.h" = "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0" ;
+LOCATE on "KEYPAD1.H" = "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0" ;
+LOCATE on "limitsetup.h" = "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0" ;
+LOCATE on "MAIN.C" = "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0" ;
+LOCATE on "main.h" = "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0" ;
+LOCATE on "MAIN1.H" = "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0" ;
+LOCATE on "manual.h" = "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0" ;
+LOCATE on "manualctrl.c" = "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0" ;
+LOCATE on "manualctrl1.h" = "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0" ;
+LOCATE on "MARKER.C" = "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0" ;
+LOCATE on "Master.h" = "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0" ;
+LOCATE on "model.h" = "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0" ;
+LOCATE on "modelsetup.c" = "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0" ;
+LOCATE on "modelsetup1.h" = "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0" ;
+LOCATE on "MSG.C" = "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0" ;
+LOCATE on "MSG.h" = "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0" ;
+LOCATE on "PLC.C" = "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0" ;
+LOCATE on "PLC.H" = "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0" ;
+LOCATE on "PLC_IODefinedConst.h" = "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0" ;
+LOCATE on "resultview.c" = "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0" ;
+LOCATE on "resultview.h" = "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0" ;
+LOCATE on "resultview1.h" = "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0" ;
+LOCATE on "THREAD.C" = "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0" ;
+LOCATE on "UIRDefinedHeader.h" = "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0" ;
+LOCATE on "userdefinedconst.h" = "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0" ;
+LOCATE on "UserDefinedGlobal.h" = "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0" ;
+LOCATE on "USERFUNC.C" = "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0" ;
+LOCATE on "zerosetup.c" = "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0" ;
+LOCATE on "zerosetup1.h" = "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0" ;
+Object "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\cvibuild.DISK\\Debug\\AMPCOM1.obj" : "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\AMPCOM1.C" ;
+FILENUM on "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\cvibuild.DISK\\Debug\\AMPCOM1.obj" = 1 ;
+DEFPROTS on "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\cvibuild.DISK\\Debug\\AMPCOM1.obj" = "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\cvibuild.DISK\\Debug\\AMPCOM1.obj.cvidefprots" ;
+OUTFILE on "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\cvibuild.DISK\\Debug\\AMPCOM1.obj" = "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\cvibuild.DISK\\Debug\\AMPCOM1.obj.out" ;
+PrjObjects += "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\cvibuild.DISK\\Debug\\AMPCOM1.obj" ;
+Object "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\cvibuild.DISK\\Debug\\aux1_2.obj" : "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\aux1_2.c" ;
+FILENUM on "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\cvibuild.DISK\\Debug\\aux1_2.obj" = 2 ;
+DEFPROTS on "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\cvibuild.DISK\\Debug\\aux1_2.obj" = "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\cvibuild.DISK\\Debug\\aux1_2.obj.cvidefprots" ;
+OUTFILE on "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\cvibuild.DISK\\Debug\\aux1_2.obj" = "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\cvibuild.DISK\\Debug\\aux1_2.obj.out" ;
+PrjObjects += "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\cvibuild.DISK\\Debug\\aux1_2.obj" ;
+Object "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\cvibuild.DISK\\Debug\\CalcFunc.obj" : "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\CalcFunc.c" ;
+FILENUM on "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\cvibuild.DISK\\Debug\\CalcFunc.obj" = 3 ;
+DEFPROTS on "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\cvibuild.DISK\\Debug\\CalcFunc.obj" = "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\cvibuild.DISK\\Debug\\CalcFunc.obj.cvidefprots" ;
+OUTFILE on "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\cvibuild.DISK\\Debug\\CalcFunc.obj" = "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\cvibuild.DISK\\Debug\\CalcFunc.obj.out" ;
+PrjObjects += "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\cvibuild.DISK\\Debug\\CalcFunc.obj" ;
+Object "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\cvibuild.DISK\\Debug\\EQUATION.obj" : "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\EQUATION.C" ;
+FILENUM on "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\cvibuild.DISK\\Debug\\EQUATION.obj" = 4 ;
+DEFPROTS on "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\cvibuild.DISK\\Debug\\EQUATION.obj" = "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\cvibuild.DISK\\Debug\\EQUATION.obj.cvidefprots" ;
+OUTFILE on "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\cvibuild.DISK\\Debug\\EQUATION.obj" = "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\cvibuild.DISK\\Debug\\EQUATION.obj.out" ;
+PrjObjects += "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\cvibuild.DISK\\Debug\\EQUATION.obj" ;
+Object "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\cvibuild.DISK\\Debug\\KEYPAD.obj" : "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\KEYPAD.C" ;
+FILENUM on "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\cvibuild.DISK\\Debug\\KEYPAD.obj" = 5 ;
+DEFPROTS on "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\cvibuild.DISK\\Debug\\KEYPAD.obj" = "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\cvibuild.DISK\\Debug\\KEYPAD.obj.cvidefprots" ;
+OUTFILE on "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\cvibuild.DISK\\Debug\\KEYPAD.obj" = "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\cvibuild.DISK\\Debug\\KEYPAD.obj.out" ;
+PrjObjects += "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\cvibuild.DISK\\Debug\\KEYPAD.obj" ;
+Object "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\cvibuild.DISK\\Debug\\MAIN.obj" : "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\MAIN.C" ;
+FILENUM on "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\cvibuild.DISK\\Debug\\MAIN.obj" = 6 ;
+DEFPROTS on "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\cvibuild.DISK\\Debug\\MAIN.obj" = "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\cvibuild.DISK\\Debug\\MAIN.obj.cvidefprots" ;
+OUTFILE on "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\cvibuild.DISK\\Debug\\MAIN.obj" = "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\cvibuild.DISK\\Debug\\MAIN.obj.out" ;
+PrjObjects += "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\cvibuild.DISK\\Debug\\MAIN.obj" ;
+Object "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\cvibuild.DISK\\Debug\\manualctrl.obj" : "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\manualctrl.c" ;
+FILENUM on "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\cvibuild.DISK\\Debug\\manualctrl.obj" = 7 ;
+DEFPROTS on "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\cvibuild.DISK\\Debug\\manualctrl.obj" = "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\cvibuild.DISK\\Debug\\manualctrl.obj.cvidefprots" ;
+OUTFILE on "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\cvibuild.DISK\\Debug\\manualctrl.obj" = "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\cvibuild.DISK\\Debug\\manualctrl.obj.out" ;
+PrjObjects += "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\cvibuild.DISK\\Debug\\manualctrl.obj" ;
+Object "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\cvibuild.DISK\\Debug\\MARKER.obj" : "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\MARKER.C" ;
+FILENUM on "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\cvibuild.DISK\\Debug\\MARKER.obj" = 8 ;
+DEFPROTS on "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\cvibuild.DISK\\Debug\\MARKER.obj" = "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\cvibuild.DISK\\Debug\\MARKER.obj.cvidefprots" ;
+OUTFILE on "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\cvibuild.DISK\\Debug\\MARKER.obj" = "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\cvibuild.DISK\\Debug\\MARKER.obj.out" ;
+PrjObjects += "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\cvibuild.DISK\\Debug\\MARKER.obj" ;
+Object "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\cvibuild.DISK\\Debug\\modelsetup.obj" : "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\modelsetup.c" ;
+FILENUM on "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\cvibuild.DISK\\Debug\\modelsetup.obj" = 9 ;
+DEFPROTS on "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\cvibuild.DISK\\Debug\\modelsetup.obj" = "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\cvibuild.DISK\\Debug\\modelsetup.obj.cvidefprots" ;
+OUTFILE on "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\cvibuild.DISK\\Debug\\modelsetup.obj" = "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\cvibuild.DISK\\Debug\\modelsetup.obj.out" ;
+PrjObjects += "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\cvibuild.DISK\\Debug\\modelsetup.obj" ;
+Object "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\cvibuild.DISK\\Debug\\MSG.obj" : "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\MSG.C" ;
+FILENUM on "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\cvibuild.DISK\\Debug\\MSG.obj" = 10 ;
+DEFPROTS on "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\cvibuild.DISK\\Debug\\MSG.obj" = "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\cvibuild.DISK\\Debug\\MSG.obj.cvidefprots" ;
+OUTFILE on "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\cvibuild.DISK\\Debug\\MSG.obj" = "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\cvibuild.DISK\\Debug\\MSG.obj.out" ;
+PrjObjects += "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\cvibuild.DISK\\Debug\\MSG.obj" ;
+Object "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\cvibuild.DISK\\Debug\\PLC.obj" : "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\PLC.C" ;
+FILENUM on "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\cvibuild.DISK\\Debug\\PLC.obj" = 11 ;
+DEFPROTS on "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\cvibuild.DISK\\Debug\\PLC.obj" = "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\cvibuild.DISK\\Debug\\PLC.obj.cvidefprots" ;
+OUTFILE on "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\cvibuild.DISK\\Debug\\PLC.obj" = "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\cvibuild.DISK\\Debug\\PLC.obj.out" ;
+PrjObjects += "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\cvibuild.DISK\\Debug\\PLC.obj" ;
+Object "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\cvibuild.DISK\\Debug\\resultview.obj" : "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\resultview.c" ;
+FILENUM on "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\cvibuild.DISK\\Debug\\resultview.obj" = 12 ;
+DEFPROTS on "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\cvibuild.DISK\\Debug\\resultview.obj" = "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\cvibuild.DISK\\Debug\\resultview.obj.cvidefprots" ;
+OUTFILE on "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\cvibuild.DISK\\Debug\\resultview.obj" = "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\cvibuild.DISK\\Debug\\resultview.obj.out" ;
+PrjObjects += "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\cvibuild.DISK\\Debug\\resultview.obj" ;
+Object "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\cvibuild.DISK\\Debug\\THREAD.obj" : "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\THREAD.C" ;
+FILENUM on "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\cvibuild.DISK\\Debug\\THREAD.obj" = 13 ;
+DEFPROTS on "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\cvibuild.DISK\\Debug\\THREAD.obj" = "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\cvibuild.DISK\\Debug\\THREAD.obj.cvidefprots" ;
+OUTFILE on "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\cvibuild.DISK\\Debug\\THREAD.obj" = "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\cvibuild.DISK\\Debug\\THREAD.obj.out" ;
+PrjObjects += "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\cvibuild.DISK\\Debug\\THREAD.obj" ;
+Object "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\cvibuild.DISK\\Debug\\USERFUNC.obj" : "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\USERFUNC.C" ;
+FILENUM on "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\cvibuild.DISK\\Debug\\USERFUNC.obj" = 14 ;
+DEFPROTS on "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\cvibuild.DISK\\Debug\\USERFUNC.obj" = "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\cvibuild.DISK\\Debug\\USERFUNC.obj.cvidefprots" ;
+OUTFILE on "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\cvibuild.DISK\\Debug\\USERFUNC.obj" = "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\cvibuild.DISK\\Debug\\USERFUNC.obj.out" ;
+PrjObjects += "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\cvibuild.DISK\\Debug\\USERFUNC.obj" ;
+Object "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\cvibuild.DISK\\Debug\\zerosetup.obj" : "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\zerosetup.c" ;
+FILENUM on "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\cvibuild.DISK\\Debug\\zerosetup.obj" = 15 ;
+DEFPROTS on "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\cvibuild.DISK\\Debug\\zerosetup.obj" = "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\cvibuild.DISK\\Debug\\zerosetup.obj.cvidefprots" ;
+OUTFILE on "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\cvibuild.DISK\\Debug\\zerosetup.obj" = "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\cvibuild.DISK\\Debug\\zerosetup.obj.out" ;
+PrjObjects += "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\cvibuild.DISK\\Debug\\zerosetup.obj" ;
+Object "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\cvibuild.DISK\\Debug\\resources.res" : "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\cvibuild.DISK\\Debug\\resources.in.rc" ;
+Depends "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\cvibuild.DISK\\Debug\\resources.res" : "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\cvibuild.DISK\\Debug\\manifest.xml" ;
+MainFromObjects "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\cvibuild.DISK\\Debug\\DISK_dbg.exe" : $(PrjObjects) $(InstrObjects) ;
+Depends "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\cvibuild.DISK\\Debug\\DISK_dbg.exe" : "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\cvibuild.DISK\\Debug\\link_options.txt" ;
+Depends "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\cvibuild.DISK\\Debug\\DISK_dbg.exe" : "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\cvibuild.DISK\\Debug\\resources.res" ;
+Depends "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\cvibuild.DISK\\Debug\\resources.res" :  "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\KEYPAD.UIR" ;
+Depends "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\cvibuild.DISK\\Debug\\resources.res" :  "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\main.uir" ;
+Depends "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\cvibuild.DISK\\Debug\\resources.res" :  "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\manual.uir" ;
+Depends "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\cvibuild.DISK\\Debug\\resources.res" :  "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\Master.uir" ;
+Depends "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\cvibuild.DISK\\Debug\\resources.res" :  "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\model.uir" ;
+Depends "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\cvibuild.DISK\\Debug\\resources.res" :  "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\MSG.UIR" ;
+Depends "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\cvibuild.DISK\\Debug\\resources.res" :  "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\resultview.uir" ;
+Depends all : "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\cvibuild.DISK\\Debug\\DISK_dbg.exe" ;

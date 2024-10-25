@@ -1,0 +1,631 @@
+[Workspace Header]
+Version = 1700
+Pathname = "/e/@PROJECT/NAMYANG NEXMO/BDA3/BD_A3_201224r0/DISK.cws"
+CVI Dir = "/c/program files (x86)/national instruments/cvi2017"
+CVI Shared Dir = "/C/Program Files (x86)/National Instruments/Shared/CVI"
+CVI Pub Local Dir = "/C/ProgramData/National Instruments/CVI2017"
+CVI Pub Global Dir = "/C/ProgramData/National Instruments/CVI"
+IVI Standard Root Dir = "/C/Program Files (x86)/IVI Foundation/IVI"
+IVI Standard Root 64-bit Dir = "/C/Program Files/IVI Foundation/IVI"
+VXIplug&play Framework Dir = "/C/Program Files (x86)/IVI Foundation/VISA/winnt"
+VXIplug&play Framework 64-bit Dir = "/C/Program Files/IVI Foundation/VISA/win64"
+Number of Projects = 1
+Active Project = 1
+Project 0001 = "DISK.prj"
+Project 0001 Folder Include Files Collapsed = True
+Project 0001 FolderId 2 Collapsed = True
+Drag Bar Left = 202
+Window Top = 31
+Window Left = -1520
+Window Bottom = 1039
+Window Right = -562
+Maximized = True
+Maximized Children = True
+Max32 Number Of Errors = 20
+Track Include File Dependencies = True
+Prompt For Missing Includes = True
+Stop On First Error File = False
+Bring Up Err Win At Start = True
+Bring Up Err Win For Errors = False
+Save Changes Before Running = "Always"
+Save Changes Before Compiling = "Always"
+Hide Windows = False
+Break At First Statement = False
+Sort Type = "File Name"
+Number of Opened Files = 20
+Window Confinement Region Enabled = True
+MainColumnWidth = 185
+FileDateColumnWidth = 70
+FileSizeColumnWidth = 70
+
+[Project Header 0001]
+Version = 1700
+Don't Update DistKit = False
+Platform Code = 4
+Build Configuration = "Release"
+Warn User If Debugging Release = 0
+Batch Build Release = True
+Batch Build Debug = True
+
+[File 0001]
+Path Line0001 = "/c/Program Files (x86)/National Instruments/CVI2017/toolslib/custctrl/3DGraphCtr"
+Path Line0002 = "l.fp"
+File Type = "Function Panel"
+Disk Date = 3573561600
+In Projects = "1,"
+
+[File 0002]
+Path = "/c/Program Files (x86)/National Instruments/CVI2017/spc/legend/legend.fp"
+File Type = "Function Panel"
+Disk Date = 2992533672
+In Projects = "1,"
+
+[File 0003]
+Path = "/c/Program Files (x86)/National Instruments/CVI2017/toolslib/custctrl/pwctrl.fp"
+File Type = "Function Panel"
+Disk Date = 3573561600
+In Projects = "1,"
+
+[File 0004]
+Path = "/c/Program Files (x86)/National Instruments/CVI2017/spc/spc.fp"
+File Type = "Function Panel"
+Disk Date = 2992866692
+In Projects = "1,"
+
+[File 0005]
+Path = "/e/@PROJECT/NAMYANG NEXMO/BDA3/BD_A3_201224r0/MAIN.C"
+File Type = "CSource"
+Disk Date = 3691970158
+In Projects = "1,"
+Window Top = 45
+Window Left = 10
+Window Z-Order = 6
+Source Window State = "1,3626,3626,3626,69,70,70,0,0,60,0,4342,0,0,0,25,4337,0,4365,32,349,422,1,21,"
+Breakpoint 0001 = "4436,0,enabled,"
+Breakpoint 0002 = "7809,0,enabled,"
+Line Tags = "100,2791,3313,4616,5119,6453,7403,9606,"
+
+[File 0006]
+Path = "/e/@PROJECT/NAMYANG NEXMO/BDA3/BD_A3_201224r0/USERFUNC.C"
+File Type = "CSource"
+Disk Date = 3691623032
+In Projects = "1,"
+Window Top = 62
+Window Left = 26
+Window Z-Order = 13
+Source Window State = "1,6898,6926,6926,0,62,62,0,0,56,0,0,0,0,0,25,1983,0,1995,46,349,398,1,0,"
+Breakpoint 0001 = "963,0,enabled,"
+Breakpoint 0002 = "5827,0,enabled,"
+Breakpoint 0003 = "5835,0,enabled,"
+Breakpoint 0004 = "5856,0,enabled,"
+Breakpoint 0005 = "6376,0,enabled,"
+Breakpoint 0006 = "6990,0,enabled,"
+Line Tags = "392,2066,2993,3050,3680,6893,6932,"
+
+[File 0007]
+Path = "/e/@PROJECT/NAMYANG NEXMO/BDA3/BD_A3_201224r0/manualctrl.c"
+File Type = "CSource"
+Disk Date = 3691628290
+In Projects = "1,"
+Window Top = 392
+Window Left = 108
+Window Z-Order = 3
+Source Window State = "1,996,996,996,16,30,30,0,0,117,0,0,0,0,0,25,813,0,826,32,349,764,1,0,"
+Breakpoint 0001 = "1043,0,enabled,"
+
+[File 0008]
+Path = "/e/@PROJECT/NAMYANG NEXMO/BDA3/BD_A3_201224r0/resultview.c"
+File Type = "CSource"
+Disk Date = 3687737702
+In Projects = "1,"
+Window Top = 152
+Window Left = 74
+Source Window State = "1,2910,2928,2910,75,69,75,0,0,0,0,0,0,0,0,0,2894,0,2924,53,297,632,0,0,"
+Line Tags = "119,"
+
+[File 0009]
+Path = "/e/@PROJECT/NAMYANG NEXMO/BDA3/BD_A3_201224r0/modelsetup.c"
+File Type = "CSource"
+Disk Date = 3691631624
+In Projects = "1,"
+Window Top = 45
+Window Left = 10
+Window Z-Order = 1
+Source Window State = "1,1370,1370,1370,8,18,18,0,0,276,0,0,0,0,0,69,1360,0,1370,196,349,620,1,0,"
+Line Tags = "1607,"
+
+[File 0010]
+Path = "/e/@PROJECT/NAMYANG NEXMO/BDA3/BD_A3_201224r0/PLC.C"
+File Type = "CSource"
+Disk Date = 3713305507
+In Projects = "1,"
+Window Top = 45
+Window Left = 1
+Window Z-Order = 11
+Source Window State = "1,1734,1741,1734,0,0,0,0,0,76,0,0,0,0,0,25,1956,0,1968,15,349,518,1,0,"
+Line Tags = "735,909,1622,"
+
+[File 0011]
+Path = "/e/@PROJECT/NAMYANG NEXMO/BDA3/BD_A3_201224r0/MSG.C"
+File Type = "CSource"
+Disk Date = 3698634174
+In Projects = "1,"
+Window Top = 62
+Window Left = 26
+Window Z-Order = 7
+Source Window State = "1,1419,1442,1419,87,85,87,0,0,117,0,0,0,0,0,25,1410,0,1442,90,349,764,1,0,"
+Breakpoint 0001 = "1091,0,enabled,"
+
+[File 0012]
+Path = "/e/@PROJECT/NAMYANG NEXMO/BDA3/BD_A3_201224r0/MARKER.C"
+File Type = "CSource"
+Disk Date = 3656538712
+In Projects = "1,"
+Window Top = 302
+Window Left = 63
+Window Z-Order = 8
+Source Window State = "1,665,665,665,30,48,48,0,0,117,0,0,0,0,0,25,640,0,664,8,349,764,1,0,"
+Line Tags = "1013,"
+
+[File 0013]
+Path = "/e/@PROJECT/NAMYANG NEXMO/BDA3/BD_A3_201224r0/THREAD.C"
+File Type = "CSource"
+Disk Date = 3649452882
+In Projects = "1,"
+Window Top = 182
+Window Left = 90
+Window Z-Order = 20
+Source Window State = "1,204,204,204,57,58,57,0,0,117,0,0,0,0,0,25,60,0,72,16,349,764,1,0,"
+Breakpoint 0001 = "147,0,disabled,"
+
+[File 0014]
+Path = "/e/@PROJECT/NAMYANG NEXMO/BDA3/BD_A3_201224r0/UserDefinedGlobal.h"
+File Type = "Include"
+Disk Date = 3691624440
+In Projects = "1,"
+Window Top = 242
+Window Left = 122
+Window Z-Order = 12
+Source Window State = "1,1522,1523,1522,0,0,0,0,0,76,0,0,0,0,0,25,1440,24,1452,80,349,518,1,0,"
+Line Tags = "1519,"
+
+[File 0015]
+Path = "/e/@PROJECT/NAMYANG NEXMO/BDA3/BD_A3_201224r0/MSG.UIR"
+File Type = "User Interface Resource"
+Disk Date = 3688002082
+In Projects = "1,"
+Window Top = 45
+Window Left = 10
+Window Height = 349
+Window Width = 398
+Window Z-Order = 9
+
+[File 0016]
+Path = "/e/@PROJECT/NAMYANG NEXMO/BDA3/BD_A3_201224r0/model.uir"
+File Type = "User Interface Resource"
+Disk Date = 3643437428
+In Projects = "1,"
+Window Top = 122
+Window Left = 58
+Window Height = 349
+Window Width = 518
+Window Z-Order = 19
+
+[File 0017]
+Path = "/e/@PROJECT/NAMYANG NEXMO/BDA3/BD_A3_201224r0/PLC_IODefinedConst.h"
+File Type = "Include"
+Disk Date = 3687661682
+In Projects = "1,"
+Window Top = 62
+Window Left = 26
+Window Z-Order = 17
+Source Window State = "1,323,323,323,8,14,14,0,0,76,0,2300,0,0,0,25,304,68,312,112,349,518,1,31,"
+
+[File 0018]
+Path = "/e/@PROJECT/NAMYANG NEXMO/BDA3/BD_A3_201224r0/userdefinedconst.h"
+File Type = "Include"
+Disk Date = 3687661682
+In Projects = "1,"
+Window Top = 332
+Window Left = 170
+Window Z-Order = 18
+Source Window State = "1,312,313,312,28,36,28,0,0,119,0,0,0,0,0,25,298,0,312,65,349,776,1,0,"
+
+[File 0019]
+Path = "/e/@PROJECT/NAMYANG NEXMO/BDA3/BD_A3_201224r0/Master.uir"
+File Type = "User Interface Resource"
+Disk Date = 3646614010
+In Projects = "1,"
+Window Top = 62
+Window Left = 26
+Window Height = 349
+Window Width = 764
+Window Z-Order = 16
+
+[File 0020]
+Path = "/e/@PROJECT/NAMYANG NEXMO/BDA3/BD_A3_201224r0/zerosetup.c"
+File Type = "CSource"
+Disk Date = 3646614010
+In Projects = "1,"
+Window Top = 92
+Window Left = 42
+Window Z-Order = 15
+Source Window State = "1,667,667,667,26,31,31,0,3,99,0,0,0,0,0,25,634,0,667,26,349,656,1,0,"
+
+[File 0021]
+Path = "/e/@PROJECT/NAMYANG NEXMO/BDA3/BD_A3_201224r0/aux1_2.c"
+File Type = "CSource"
+Disk Date = 3643845288
+In Projects = "1,"
+Window Top = 152
+Window Left = 1
+Window Z-Order = 2
+Source Window State = "1,685,685,685,4,16,16,0,3,117,0,0,0,0,0,25,673,0,685,4,349,764,1,0,"
+
+[File 0022]
+Path = "/e/@PROJECT/NAMYANG NEXMO/BDA3/BD_A3_201224r0/KEYPAD.C"
+File Type = "CSource"
+Disk Date = 3378150862
+In Projects = "1,"
+Window Top = 32
+Window Left = 10
+Window Z-Order = 14
+Source Window State = "1,0,0,0,0,0,0,0,0,117,0,0,0,0,0,25,1211,0,1235,25,349,764,1,0,"
+
+[File 0023]
+Path = "/e/@PROJECT/NAMYANG NEXMO/BDA3/BD_A3_201224r0/main.uir"
+File Type = "User Interface Resource"
+Disk Date = 3687822468
+In Projects = "1,"
+Window Top = 152
+Window Left = 63
+Window Height = 349
+Window Width = 764
+Window Z-Order = 10
+
+[File 0024]
+Path = "/e/@PROJECT/NAMYANG NEXMO/BDA3/BD_A3_201224r0/MAIN1.H"
+File Type = "Include"
+Disk Date = 3691624424
+In Projects = "1,"
+Window Top = 212
+Window Left = 106
+Window Z-Order = 5
+Source Window State = "1,428,429,428,0,0,0,0,0,76,0,0,0,0,0,25,378,0,410,8,349,518,1,0,"
+
+[File 0025]
+Path = "/e/@PROJECT/NAMYANG NEXMO/BDA3/BD_A3_201224r0/manual.h"
+File Type = "Include"
+Disk Date = 3687835526
+In Projects = "1,"
+Window Top = 62
+Window Left = 26
+Window Z-Order = 4
+Source Window State = "1,0,0,0,0,0,0,0,0,76,0,0,0,0,0,25,407,0,419,22,349,518,1,0,"
+
+[File 0026]
+Path = "/e/@PROJECT/NAMYANG NEXMO/BDA3/BD_A3_201224r0/AMPCOM1.C"
+File Type = "CSource"
+Disk Date = 3713305507
+In Projects = "1,"
+Window Top = 122
+Window Left = 58
+Source Window State = "1,134,135,135,43,42,42,0,0,0,0,0,0,0,0,0,123,0,138,8,349,764,1,0,"
+
+[File 0027]
+Path = "/e/@PROJECT/NAMYANG NEXMO/BDA3/BD_A3_201224r0/CalcFunc.c"
+File Type = "CSource"
+Disk Date = 3604709810
+In Projects = "1,"
+Window Top = 362
+Window Left = 63
+Source Window State = "1,1062,1062,1062,26,43,26,0,0,0,0,0,0,0,0,0,967,0,160,38,349,764,1,0,"
+
+[File 0028]
+Path = "/e/@PROJECT/NAMYANG NEXMO/BDA3/BD_A3_201224r0/EQUATION.C"
+File Type = "CSource"
+Disk Date = 3582026370
+In Projects = "1,"
+Window Top = 32
+Window Left = 10
+Source Window State = "1,236,237,237,56,56,56,0,0,0,0,0,0,0,0,0,213,0,230,101,349,776,1,0,"
+
+[File 0029]
+Path = "/e/@PROJECT/NAMYANG NEXMO/BDA3/BD_A3_201224r0/AMPCOM1.H"
+File Type = "Include"
+Disk Date = 3489362766
+In Projects = "1,"
+Window Top = 92
+Window Left = 42
+Source Window State = "1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,323,542,1,0,"
+
+[File 0030]
+Path = "/e/@PROJECT/NAMYANG NEXMO/BDA3/BD_A3_201224r0/Calcfunc.h"
+File Type = "Include"
+Disk Date = 3160774446
+In Projects = "1,"
+Window Top = 152
+Window Left = 74
+Source Window State = "1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,336,542,0,0,"
+
+[File 0031]
+Path = "/e/@PROJECT/NAMYANG NEXMO/BDA3/BD_A3_201224r0/comconfig.h"
+File Type = "Include"
+Disk Date = 3150372602
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0032]
+Path = "/e/@PROJECT/NAMYANG NEXMO/BDA3/BD_A3_201224r0/EQUATION.H"
+File Type = "Include"
+Disk Date = 3151200148
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0033]
+Path = "/e/@PROJECT/NAMYANG NEXMO/BDA3/BD_A3_201224r0/KEYCODE.H"
+File Type = "Include"
+Disk Date = 3519249300
+In Projects = "1,"
+Window Top = 182
+Window Left = 90
+Source Window State = "1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,336,542,0,0,"
+
+[File 0034]
+Path = "/e/@PROJECT/NAMYANG NEXMO/BDA3/BD_A3_201224r0/KEYPAD.h"
+File Type = "Include"
+Disk Date = 3583967348
+In Projects = "1,"
+Window Top = 32
+Window Left = 10
+Source Window State = "1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,336,542,0,0,"
+
+[File 0035]
+Path = "/e/@PROJECT/NAMYANG NEXMO/BDA3/BD_A3_201224r0/KEYPAD1.H"
+File Type = "Include"
+Disk Date = 3150372408
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0036]
+Path = "/e/@PROJECT/NAMYANG NEXMO/BDA3/BD_A3_201224r0/limitsetup.h"
+File Type = "Include"
+Disk Date = 0
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0037]
+Path = "/e/@PROJECT/NAMYANG NEXMO/BDA3/BD_A3_201224r0/main.h"
+File Type = "Include"
+Disk Date = 3687822468
+In Projects = "1,"
+Window Top = 92
+Window Left = 42
+Source Window State = "1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,575,0,587,17,349,770,0,0,"
+
+[File 0038]
+Path = "/e/@PROJECT/NAMYANG NEXMO/BDA3/BD_A3_201224r0/manualctrl1.h"
+File Type = "Include"
+Disk Date = 3687733284
+In Projects = "1,"
+Window Top = 242
+Window Left = 122
+Source Window State = "1,43,43,43,0,8,8,0,0,0,0,0,0,0,0,0,31,0,44,8,349,542,1,0,"
+
+[File 0039]
+Path = "/e/@PROJECT/NAMYANG NEXMO/BDA3/BD_A3_201224r0/Master.h"
+File Type = "Include"
+Disk Date = 3646614010
+In Projects = "1,"
+Window Top = 92
+Window Left = 42
+Source Window State = "1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,336,542,0,0,"
+
+[File 0040]
+Path = "/e/@PROJECT/NAMYANG NEXMO/BDA3/BD_A3_201224r0/model.h"
+File Type = "Include"
+Disk Date = 3643437428
+In Projects = "1,"
+Window Top = 122
+Window Left = 58
+Source Window State = "1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,80,0,92,17,349,776,0,0,"
+
+[File 0041]
+Path = "/e/@PROJECT/NAMYANG NEXMO/BDA3/BD_A3_201224r0/modelsetup1.h"
+File Type = "Include"
+Disk Date = 3636693844
+In Projects = "1,"
+Window Top = 122
+Window Left = 58
+Source Window State = "1,42,42,42,0,99,99,0,0,0,0,0,0,0,0,0,37,0,47,81,349,764,1,0,"
+
+[File 0042]
+Path = "/e/@PROJECT/NAMYANG NEXMO/BDA3/BD_A3_201224r0/MSG.h"
+File Type = "Include"
+Disk Date = 3688002082
+In Projects = "1,"
+Window Top = 122
+Window Left = 58
+Source Window State = "1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,752,0,764,17,349,776,0,0,"
+
+[File 0043]
+Path = "/e/@PROJECT/NAMYANG NEXMO/BDA3/BD_A3_201224r0/PLC.H"
+File Type = "Include"
+Disk Date = 3521102108
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0044]
+Path = "/e/@PROJECT/NAMYANG NEXMO/BDA3/BD_A3_201224r0/resultview.h"
+File Type = "Include"
+Disk Date = 3642906184
+In Projects = "1,"
+Window Top = 362
+Window Left = 186
+Source Window State = "1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,53,0,65,109,349,770,0,0,"
+
+[File 0045]
+Path = "/e/@PROJECT/NAMYANG NEXMO/BDA3/BD_A3_201224r0/resultview1.h"
+File Type = "Include"
+Disk Date = 3170109696
+In Projects = "1,"
+Window Top = 122
+Window Left = 58
+Source Window State = "1,131,131,131,24,31,31,0,0,0,0,0,0,0,0,0,116,0,131,13,349,776,0,0,"
+
+[File 0046]
+Path = "/e/@PROJECT/NAMYANG NEXMO/BDA3/BD_A3_201224r0/UIRDefinedHeader.h"
+File Type = "Include"
+Disk Date = 3402365866
+In Projects = "1,"
+Window Top = 122
+Window Left = 58
+Source Window State = "1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,349,758,1,0,"
+
+[File 0047]
+Path = "/e/@PROJECT/NAMYANG NEXMO/BDA3/BD_A3_201224r0/zerosetup1.h"
+File Type = "Include"
+Disk Date = 3281916790
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0048]
+Path = "/e/@PROJECT/NAMYANG NEXMO/BDA3/BD_A3_201224r0/KEYPAD.UIR"
+File Type = "User Interface Resource"
+Disk Date = 3583967348
+In Projects = "1,"
+Window Top = 92
+Window Left = 42
+Window Height = 349
+Window Width = 620
+
+[File 0049]
+Path = "/e/@PROJECT/NAMYANG NEXMO/BDA3/BD_A3_201224r0/manual.uir"
+File Type = "User Interface Resource"
+Disk Date = 3687835526
+In Projects = "1,"
+Window Top = 422
+Window Left = 108
+Window Height = 349
+Window Width = 764
+
+[File 0050]
+Path = "/e/@PROJECT/NAMYANG NEXMO/BDA3/BD_A3_201224r0/resultview.uir"
+File Type = "User Interface Resource"
+Disk Date = 3642906184
+In Projects = "1,"
+Window Top = 122
+Window Left = 58
+Window Height = 297
+Window Width = 632
+
+[Tab Order]
+Tab 0001 = "/e/@PROJECT/NAMYANG NEXMO/BDA3/BD_A3_201224r0/THREAD.C"
+Tab 0002 = "/e/@PROJECT/NAMYANG NEXMO/BDA3/BD_A3_201224r0/model.uir"
+Tab 0003 = "/e/@PROJECT/NAMYANG NEXMO/BDA3/BD_A3_201224r0/userdefinedconst.h"
+Tab 0004 = "/e/@PROJECT/NAMYANG NEXMO/BDA3/BD_A3_201224r0/PLC_IODefinedConst.h"
+Tab 0005 = "/e/@PROJECT/NAMYANG NEXMO/BDA3/BD_A3_201224r0/Master.uir"
+Tab 0006 = "/e/@PROJECT/NAMYANG NEXMO/BDA3/BD_A3_201224r0/zerosetup.c"
+Tab 0007 = "/e/@PROJECT/NAMYANG NEXMO/BDA3/BD_A3_201224r0/KEYPAD.C"
+Tab 0008 = "/e/@PROJECT/NAMYANG NEXMO/BDA3/BD_A3_201224r0/USERFUNC.C"
+Tab 0009 = "/e/@PROJECT/NAMYANG NEXMO/BDA3/BD_A3_201224r0/UserDefinedGlobal.h"
+Tab 0010 = "/e/@PROJECT/NAMYANG NEXMO/BDA3/BD_A3_201224r0/PLC.C"
+Tab 0011 = "/e/@PROJECT/NAMYANG NEXMO/BDA3/BD_A3_201224r0/main.uir"
+Tab 0012 = "/e/@PROJECT/NAMYANG NEXMO/BDA3/BD_A3_201224r0/MSG.UIR"
+Tab 0013 = "/e/@PROJECT/NAMYANG NEXMO/BDA3/BD_A3_201224r0/MARKER.C"
+Tab 0014 = "/e/@PROJECT/NAMYANG NEXMO/BDA3/BD_A3_201224r0/MSG.C"
+Tab 0015 = "/e/@PROJECT/NAMYANG NEXMO/BDA3/BD_A3_201224r0/MAIN.C"
+Tab 0016 = "/e/@PROJECT/NAMYANG NEXMO/BDA3/BD_A3_201224r0/MAIN1.H"
+Tab 0017 = "/e/@PROJECT/NAMYANG NEXMO/BDA3/BD_A3_201224r0/manual.h"
+Tab 0018 = "/e/@PROJECT/NAMYANG NEXMO/BDA3/BD_A3_201224r0/manualctrl.c"
+Tab 0019 = "/e/@PROJECT/NAMYANG NEXMO/BDA3/BD_A3_201224r0/modelsetup.c"
+Tab 0020 = "/e/@PROJECT/NAMYANG NEXMO/BDA3/BD_A3_201224r0/aux1_2.c"
+
+[Default Build Config 0001 Debug]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = True
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+External Process Path = ""
+
+[Default Build Config 0001 Release]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = True
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+External Process Path = ""
+
+[Default Build Config 0001 Debug64]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+External Process Path = ""
+
+[Default Build Config 0001 Release64]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+External Process Path = ""
+
+[Build Dependencies 0001]
+Number of Dependencies = 0
+
+[Build Options 0001]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Execution Trace = "Disabled"
+Profile = "Disabled"
+Debugging Level = "Standard"
+Break On Library Errors = True
+Break On First Chance Exceptions = False
+
+[Execution Target 0001]
+Execution Target Address = "Local desktop computer"
+Execution Target Port = 0
+Execution Target Type = 0
+
+[SCC Options 0001]
+Use global settings = True
+SCC Provider = ""
+SCC Project = ""
+Local Path = ""
+Auxiliary Path = ""
+Perform Same Action For .h File As For .uir File = "Ask"
+Perform Same Action For .cds File As For .prj File = "Ask"
+Username = ""
+Comment = ""
+Use Default Username = False
+Use Default Comment = False
+Suppress CVI Error Messages = False
+Always show confirmation dialog = True
+
+[DLL Debugging Support 0001]
+External Process Path = ""
+
+[Command Line Args 0001]
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+

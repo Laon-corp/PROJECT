@@ -1,0 +1,108 @@
+[AmpStart]
+Class="Function"
+Prototype="void AmpStart(char flag);"
+
+[Amp_Callback_Func]
+Class="Function"
+Prototype="void Amp_Callback_Func(int COMPort, int eventMask, void *callbackData);"
+
+[RestAmp]
+Class="Function"
+Prototype="int RestAmp();"
+
+[getAmpMesPar]
+Class="Function"
+Prototype="int getAmpMesPar();"
+
+[getAmpMesPar1]
+Class="Function"
+Prototype="int getAmpMesPar1();"
+
+[getAmpMesPar2]
+Class="Function"
+Prototype="int getAmpMesPar2();"
+
+[ThreadAmp]
+Class="Function"
+Prototype="int ThreadAmp(void *functionData);"
+
+[AmpPortOpen]
+Class="Function"
+Prototype="int AmpPortOpen();"
+
+[AmpPortClose]
+Class="Function"
+Prototype="void AmpPortClose();"
+
+[getCH]
+Class="Function"
+Prototype="double getCH(int num);"
+
+[ComErrView]
+Class="Function"
+Prototype="void ComErrView(int errstr);"
+
+[AmpTimer]
+Class="Function"
+Prototype="int AmpTimer(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[Amp_No]
+Class="Function"
+Prototype="int Amp_No(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[Amp_On]
+Class="Function"
+Prototype="int Amp_On(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[Calibration_Master1]
+Class="Function"
+Prototype="int Calibration_Master1(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[Calibration_Master2]
+Class="Function"
+Prototype="int Calibration_Master2(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[Calib_Event]
+Class="Function"
+Prototype="int Calib_Event(int panel, int event, void *callbackData, int eventData1, int eventData2);"
+
+[SaveCalibSet]
+Class="Function"
+Prototype="void SaveCalibSet();"
+
+[ReadCalibSet]
+Class="Function"
+Prototype="void ReadCalibSet();"
+
+[Calib_Menu]
+Class="Function"
+Prototype="void Calib_Menu(int menuBar, int menuItem, void *callbackData, int panel);"
+
+[Update1]
+Class="Function"
+Prototype="int Update1(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[GetOrbitFunctionAddresses]
+Class="Function"
+Prototype="unsigned long GetOrbitFunctionAddresses(struct HINSTANCE__ *hOrbitLib);"
+
+[flash]
+Class="Function"
+Prototype="char flash();"
+
+[ProbeNetwork]
+Class="Function"
+Prototype="int ProbeNetwork();"
+
+[ReportError]
+Class="Function"
+Prototype="void ReportError(char *ErrorString);"
+
+[Digit_Probe_Read]
+Class="Function"
+Prototype="void Digit_Probe_Read();"
+
+[Digit_InNetwork_Read]
+Class="Function"
+Prototype="void Digit_InNetwork_Read();"
+

@@ -1,0 +1,24 @@
+[ThreadFunction]
+Class="Function"
+Prototype="int ThreadFunction(void *functionData);"
+
+[ThreadFunction_IO]
+Class="Function"
+Prototype="int ThreadFunction_IO(void *functionData);"
+
+[SleepFunc]
+Class="Function"
+Prototype="void SleepFunc(int msec);"
+
+[DirRenameFunc]
+Class="Function"
+Prototype="int DirRenameFunc(const char *oldname, const char *newname);"
+
+[DelTreeFunc]
+Class="Function"
+Prototype="int DelTreeFunc(const char *oldname);"
+
+[CtrlKeyStat]
+Class="Function"
+Prototype="int CtrlKeyStat();"
+

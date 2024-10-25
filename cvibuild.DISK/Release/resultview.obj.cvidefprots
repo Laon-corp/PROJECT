@@ -1,0 +1,152 @@
+[viewDataByTable]
+Class="Function"
+Prototype="void viewDataByTable(int startPos, int measNum);"
+
+[DataViewe0]
+Class="Function"
+Prototype="int DataViewe0(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[DataViewe01]
+Class="Function"
+Prototype="int DataViewe01(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[viewDataByGraph]
+Class="Function"
+Prototype="void viewDataByGraph(int pointIdx, int startIdx, int measNum);"
+
+[ChartView0]
+Class="Function"
+Prototype="int ChartView0(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[ChartView01]
+Class="Function"
+Prototype="int ChartView01(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[fileOpen1]
+Class="Function"
+Prototype="int fileOpen1(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[fileOpen2]
+Class="Function"
+Prototype="int fileOpen2(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[fileSave1]
+Class="Function"
+Prototype="int fileSave1(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[fileSave2]
+Class="Function"
+Prototype="int fileSave2(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[reviewResultData]
+Class="Function"
+Prototype="int reviewResultData(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[inputStartNum]
+Class="Function"
+Prototype="int inputStartNum(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[inputDataNum]
+Class="Function"
+Prototype="int inputDataNum(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[reviewGraph]
+Class="Function"
+Prototype="int reviewGraph(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[inputStartNumGraph]
+Class="Function"
+Prototype="int inputStartNumGraph(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[inputDataNumGraph]
+Class="Function"
+Prototype="int inputDataNumGraph(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[showOneValue]
+Class="Function"
+Prototype="int showOneValue(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[printer]
+Class="Function"
+Prototype="void printer(int startPos, int measNum);"
+
+[printingData]
+Class="Function"
+Prototype="int printingData(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[callSaveAsFile]
+Class="Function"
+Prototype="int callSaveAsFile(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[printGraph]
+Class="Function"
+Prototype="int printGraph(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[zoomInScreenResult]
+Class="Function"
+Prototype="int zoomInScreenResult(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[updateXYResult]
+Class="Function"
+Prototype="int updateXYResult(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[RstViewCallback]
+Class="Function"
+Prototype="int RstViewCallback(int panel, int event, void *callbackData, int eventData1, int eventData2);"
+
+[Data_Set]
+Class="Function"
+Prototype="void Data_Set();"
+
+[Print_Data]
+Class="Function"
+Prototype="int Print_Data(int panel, int event, void *callbackData, int eventData1, int eventData2);"
+
+[p1]
+Class="Function"
+Prototype="int p1(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[p2]
+Class="Function"
+Prototype="int p2(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[p3]
+Class="Function"
+Prototype="int p3(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[GraphPrint]
+Class="Function"
+Prototype="void GraphPrint();"
+
+[Print_Hist]
+Class="Function"
+Prototype="void Print_Hist();"
+
+[print_spc]
+Class="Function"
+Prototype="void print_spc(int startPos, int measNum);"
+
+[Data_FileOpen]
+Class="Function"
+Prototype="int Data_FileOpen(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[Data_FileOpen2]
+Class="Function"
+Prototype="int Data_FileOpen2(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[DataFile_First]
+Class="Function"
+Prototype="void DataFile_First(int m);"
+
+[Graph_View]
+Class="Function"
+Prototype="int Graph_View(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[Multi_View]
+Class="Function"
+Prototype="int Multi_View(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[Csv_Save]
+Class="Function"
+Prototype="int Csv_Save(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+

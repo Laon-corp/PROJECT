@@ -1,0 +1,56 @@
+-nologo
+-out:d:\@PROJECT\³²¾ç³Ø½º¸ð\BDA3\BD_A3_201224r0\cvibuild.DISK\Debug\DISK_dbg.exe
+-arch:x86
+-timestamp
+-debug:2
+-loadextmod
+-res:d:\@PROJECT\³²¾ç³Ø½º¸ð\BDA3\BD_A3_201224r0\cvibuild.DISK\Debug\resources.res
+-entry:_CVIWinMainStartupCodeForDebugging@0
+-base:0x400000
+-linked:d:\@PROJECT\³²¾ç³Ø½º¸ð\BDA3\BD_A3_201224r0\cvibuild.DISK\Debug\linkersummary.txt
+-dlldeps:d:\@PROJECT\³²¾ç³Ø½º¸ð\BDA3\BD_A3_201224r0\cvibuild.DISK\Debug\dlldependencies.txt
+-licensing:d:\@PROJECT\³²¾ç³Ø½º¸ð\BDA3\BD_A3_201224r0\cvibuild.DISK\Debug\linkerlicensing.txt
+-browsedeps:d:\@PROJECT\³²¾ç³Ø½º¸ð\BDA3\BD_A3_201224r0\cvibuild.DISK\Debug\moduledependencies.txt
+-stackreserve:5242880
+-stackcommit:4096
+-in:d:\@PROJECT\³²¾ç³Ø½º¸ð\BDA3\BD_A3_201224r0\cvibuild.DISK\Debug\AMPCOM1.obj
+-in:d:\@PROJECT\³²¾ç³Ø½º¸ð\BDA3\BD_A3_201224r0\cvibuild.DISK\Debug\aux1_2.obj
+-in:d:\@PROJECT\³²¾ç³Ø½º¸ð\BDA3\BD_A3_201224r0\cvibuild.DISK\Debug\CalcFunc.obj
+-in:d:\@PROJECT\³²¾ç³Ø½º¸ð\BDA3\BD_A3_201224r0\cvibuild.DISK\Debug\EQUATION.obj
+-in:d:\@PROJECT\³²¾ç³Ø½º¸ð\BDA3\BD_A3_201224r0\cvibuild.DISK\Debug\KEYPAD.obj
+-in:d:\@PROJECT\³²¾ç³Ø½º¸ð\BDA3\BD_A3_201224r0\cvibuild.DISK\Debug\MAIN.obj
+-in:d:\@PROJECT\³²¾ç³Ø½º¸ð\BDA3\BD_A3_201224r0\cvibuild.DISK\Debug\manualctrl.obj
+-in:d:\@PROJECT\³²¾ç³Ø½º¸ð\BDA3\BD_A3_201224r0\cvibuild.DISK\Debug\MARKER.obj
+-in:d:\@PROJECT\³²¾ç³Ø½º¸ð\BDA3\BD_A3_201224r0\cvibuild.DISK\Debug\modelsetup.obj
+-in:d:\@PROJECT\³²¾ç³Ø½º¸ð\BDA3\BD_A3_201224r0\cvibuild.DISK\Debug\MSG.obj
+-in:d:\@PROJECT\³²¾ç³Ø½º¸ð\BDA3\BD_A3_201224r0\cvibuild.DISK\Debug\PLC.obj
+-in:d:\@PROJECT\³²¾ç³Ø½º¸ð\BDA3\BD_A3_201224r0\cvibuild.DISK\Debug\resultview.obj
+-in:d:\@PROJECT\³²¾ç³Ø½º¸ð\BDA3\BD_A3_201224r0\cvibuild.DISK\Debug\THREAD.obj
+-in:d:\@PROJECT\³²¾ç³Ø½º¸ð\BDA3\BD_A3_201224r0\cvibuild.DISK\Debug\USERFUNC.obj
+-in:d:\@PROJECT\³²¾ç³Ø½º¸ð\BDA3\BD_A3_201224r0\cvibuild.DISK\Debug\zerosetup.obj
+-more:c:\program files (x86)\national instruments\cvi2017\bin\msvc\cvistart.lib
+-more:c:\program files (x86)\national instruments\cvi2017\bin\msvc\cvi.lib
+-more:c:\Program Files (x86)\National Instruments\CVI2017\toolslib\custctrl\msvc\3DGraphCtrl.obj
+-more:C:\Program Files (x86)\Windows Kits\8.1\Lib\winv6.3\um\x86\advapi32.lib
+-more:c:\ProgramData\National Instruments\CVI2017\bin\msvc\analysis.lib
+-more:c:\Program Files (x86)\National Instruments\CVI2017\spc\legend\cklegend.obj
+-more:c:\Program Files (x86)\National Instruments\CVI2017\spc\ckspc.obj
+-more:c:\Program Files (x86)\National Instruments\CVI2017\bin\msvc\cviauto.lib
+-more:c:\Program Files (x86)\National Instruments\CVI2017\bin\msvc\cvidotnet.lib
+-more:c:\Program Files (x86)\National Instruments\CVI2017\bin\msvc\cvinetstreams.lib
+-more:c:\Program Files (x86)\National Instruments\CVI2017\bin\msvc\cvinetv.lib
+-more:c:\Program Files (x86)\National Instruments\CVI2017\bin\msvc\cvintwrk.lib
+-more:c:\Program Files (x86)\National Instruments\CVI2017\bin\msvc\cvitdms.lib
+-more:C:\Program Files (x86)\Windows Kits\8.1\Lib\winv6.3\um\x86\gdi32.lib
+-more:c:\Program Files (x86)\National Instruments\CVI2017\bin\msvc\gpib.lib
+-more:C:\Program Files (x86)\Windows Kits\8.1\Lib\winv6.3\um\x86\kernel32.lib
+-more:c:\Program Files (x86)\National Instruments\CVI2017\spc\legend\LEGEND.OBJ
+-more:c:\Program Files (x86)\National Instruments\CVI2017\bin\msvc\nivxi.lib
+-more:c:\Program Files (x86)\National Instruments\CVI2017\bin\msvc\omp.lib
+-more:c:\Program Files (x86)\National Instruments\CVI2017\toolslib\custctrl\msvc\pwctrl.obj
+-more:c:\Program Files (x86)\National Instruments\CVI2017\spc\spc.obj
+-more:c:\Program Files (x86)\National Instruments\CVI2017\toolslib\toolbox\msvc\toolbox.obj
+-more:C:\Program Files (x86)\Windows Kits\8.1\Lib\winv6.3\um\x86\user32.lib
+-more:C:\Program Files (x86)\Windows Kits\8.1\Lib\winv6.3\um\x86\uuid.lib
+-more:c:\Program Files (x86)\National Instruments\Shared\CVI\Bin\msvc\visa.lib
+-more:C:\Program Files (x86)\Windows Kits\8.1\Lib\winv6.3\um\x86\winmm.lib

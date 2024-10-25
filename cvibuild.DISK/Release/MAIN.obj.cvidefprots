@@ -1,0 +1,512 @@
+[WinMain]
+Class="Function"
+Prototype="int WinMain(struct HINSTANCE__ *hInstance, struct HINSTANCE__ *hPrevInstance, char *lpszCmdLine, int nCmdShow);"
+
+[DiscardPanelFunc]
+Class="Function"
+Prototype="void DiscardPanelFunc();"
+
+[SaveCommSet]
+Class="Function"
+Prototype="void SaveCommSet();"
+
+[ReadCommSet]
+Class="Function"
+Prototype="void ReadCommSet();"
+
+[ManualCtrl0]
+Class="Function"
+Prototype="int ManualCtrl0(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[ManualCtrl01]
+Class="Function"
+Prototype="int ManualCtrl01(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[ZeroSetup0]
+Class="Function"
+Prototype="int ZeroSetup0(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[ZeroSetup01]
+Class="Function"
+Prototype="int ZeroSetup01(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[ModelSetup0]
+Class="Function"
+Prototype="int ModelSetup0(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[ModelSetup01]
+Class="Function"
+Prototype="int ModelSetup01(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[ResultView0]
+Class="Function"
+Prototype="int ResultView0(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[ResultView01]
+Class="Function"
+Prototype="int ResultView01(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[Pw]
+Class="Function"
+Prototype="int Pw(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[Save_NgList]
+Class="Function"
+Prototype="void Save_NgList();"
+
+[Load_NgList]
+Class="Function"
+Prototype="void Load_NgList();"
+
+[Close]
+Class="Function"
+Prototype="int Close(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[Close1]
+Class="Function"
+Prototype="int Close1(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[GraphCtrl0]
+Class="Function"
+Prototype="int GraphCtrl0(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[GraphCtrl01]
+Class="Function"
+Prototype="int GraphCtrl01(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[cbDateTime]
+Class="Function"
+Prototype="int cbDateTime(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[DateTime1]
+Class="Function"
+Prototype="int DateTime1(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[TestTime]
+Class="Function"
+Prototype="int TestTime(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[TurnDataGraphPlot1]
+Class="Function"
+Prototype="void TurnDataGraphPlot1(int no, int Index, int panel);"
+
+[TurnDataGraphPlot2]
+Class="Function"
+Prototype="void TurnDataGraphPlot2(int no, int Index, int panel);"
+
+[TurnDataGraphPlot3]
+Class="Function"
+Prototype="void TurnDataGraphPlot3(int no, int Index, int panel);"
+
+[GetGNgGrade]
+Class="Function"
+Prototype="void GetGNgGrade(int i, int TestDataIndex);"
+
+[SetGNGandDisplay]
+Class="Function"
+Prototype="void SetGNGandDisplay();"
+
+[BCDEncoder]
+Class="Function"
+Prototype="int BCDEncoder(double DeciValue, int startDigit, unsigned int DigitLeng, int BCDCode, int reverse);"
+
+[ResetDataToPlc]
+Class="Function"
+Prototype="void ResetDataToPlc();"
+
+[SendResult2PLC]
+Class="Function"
+Prototype="void SendResult2PLC(int McID, int ModeID, int TestDataIndex);"
+
+[BarCode_Printing_M]
+Class="Function"
+Prototype="void BarCode_Printing_M(char *prtData);"
+
+[SaveLanData]
+Class="Function"
+Prototype="void SaveLanData();"
+
+[SaveLanData2]
+Class="Function"
+Prototype="void SaveLanData2();"
+
+[Send_Rf_Data]
+Class="Function"
+Prototype="void Send_Rf_Data();"
+
+[Save_Master]
+Class="Function"
+Prototype="void Save_Master();"
+
+[Save_Master2]
+Class="Function"
+Prototype="void Save_Master2();"
+
+[Master_File_Name]
+Class="Function"
+Prototype="void Master_File_Name();"
+
+[TestFinish]
+Class="Function"
+Prototype="void TestFinish();"
+
+[CalculateFinalResult_Real]
+Class="Function"
+Prototype="void CalculateFinalResult_Real();"
+
+[ChDataFiltering]
+Class="Function"
+Prototype="void ChDataFiltering(int ChNoforFlt, int Avg_t_No, int Para1, int Para2);"
+
+[CalculateFinalResult]
+Class="Function"
+Prototype="void CalculateFinalResult();"
+
+[CalculateFinalResult_Manual]
+Class="Function"
+Prototype="void CalculateFinalResult_Manual();"
+
+[CalculateSPCData]
+Class="Function"
+Prototype="void CalculateSPCData();"
+
+[MakeGraphData]
+Class="Function"
+Prototype="void MakeGraphData();"
+
+[GraphPlot]
+Class="Function"
+Prototype="void GraphPlot();"
+
+[SaveAutoTestData]
+Class="Function"
+Prototype="void SaveAutoTestData();"
+
+[DataSaveForSPCServer]
+Class="Function"
+Prototype="void DataSaveForSPCServer(int Counter);"
+
+[RecallPanel]
+Class="Function"
+Prototype="int RecallPanel(int SetupLevel, int StateIndex);"
+
+[SavePanel]
+Class="Function"
+Prototype="int SavePanel(int SetupLevel, int StateIndex);"
+
+[SaveData]
+Class="Function"
+Prototype="void SaveData();"
+
+[RecallData]
+Class="Function"
+Prototype="void RecallData();"
+
+[ReadProbe]
+Class="Function"
+Prototype="void ReadProbe();"
+
+[InitVariable]
+Class="Function"
+Prototype="void InitVariable();"
+
+[WritePanelNameTitle]
+Class="Function"
+Prototype="void WritePanelNameTitle();"
+
+[DispPointSetup]
+Class="Function"
+Prototype="int DispPointSetup(int PanelHandle, int *CtrlName, int MaxCtrlNo, int ViewYesNo);"
+
+[MainCtrlAppe]
+Class="Function"
+Prototype="void MainCtrlAppe();"
+
+[GetTextCtrlTableData]
+Class="Function"
+Prototype="int GetTextCtrlTableData();"
+
+[SetTextCtrlTableData]
+Class="Function"
+Prototype="int SetTextCtrlTableData();"
+
+[ResetMainWindowVariable]
+Class="Function"
+Prototype="void ResetMainWindowVariable();"
+
+[SetGraphTol]
+Class="Function"
+Prototype="void SetGraphTol();"
+
+[SetSpcPrecision]
+Class="Function"
+Prototype="void SetSpcPrecision();"
+
+[WriteMainWindowVariable]
+Class="Function"
+Prototype="void WriteMainWindowVariable();"
+
+[SendData2TCP]
+Class="Function"
+Prototype="int SendData2TCP(int mcid, int modeid, int TestDataIndex);"
+
+[TestData2TCP]
+Class="Function"
+Prototype="int TestData2TCP(int mcid, int modeid, int TestDataIndex);"
+
+[Set_InNetwork_Probe]
+Class="Function"
+Prototype="void Set_InNetwork_Probe();"
+
+[InNetwork_Data_Gathering]
+Class="Function"
+Prototype="void InNetwork_Data_Gathering(char *data);"
+
+[SendData2TCP2]
+Class="Function"
+Prototype="int SendData2TCP2(int mcid, int modeid, char *data);"
+
+[ClientTCPCB]
+Class="Function"
+Prototype="int ClientTCPCB(unsigned int handle, int event, int error, void *callbackData);"
+
+[ClientTCPCB_2]
+Class="Function"
+Prototype="int ClientTCPCB_2(unsigned int handle, int event, int error, void *callbackData);"
+
+[SpcOnOff]
+Class="Function"
+Prototype="int SpcOnOff(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[SPCViewOnOff]
+Class="Function"
+Prototype="void SPCViewOnOff();"
+
+[SPCSelect]
+Class="Function"
+Prototype="int SPCSelect(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[MeasPointEvent]
+Class="Function"
+Prototype="int MeasPointEvent(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[MainPanelEvent]
+Class="Function"
+Prototype="int MainPanelEvent(int panel, int event, void *callbackData, int eventData1, int eventData2);"
+
+[cbPW]
+Class="Function"
+Prototype="int cbPW(int panel, int event, void *callbackData, int eventData1, int eventData2);"
+
+[SaveEqu2Bin]
+Class="Function"
+Prototype="void SaveEqu2Bin();"
+
+[callPreference]
+Class="Function"
+Prototype="int callPreference(int panel, int event, void *callbackData, int eventData1, int eventData2);"
+
+[callZerosetup]
+Class="Function"
+Prototype="int callZerosetup(int panel, int event, void *callbackData, int eventData1, int eventData2);"
+
+[ContNgChkFlagCallback]
+Class="Function"
+Prototype="int ContNgChkFlagCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[LanUse]
+Class="Function"
+Prototype="void LanUse();"
+
+[Read_Lan_Data]
+Class="Function"
+Prototype="void Read_Lan_Data();"
+
+[Write_Lan_Data]
+Class="Function"
+Prototype="void Write_Lan_Data();"
+
+[Graph1]
+Class="Function"
+Prototype="int Graph1(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[viewMeasDataTable]
+Class="Function"
+Prototype="void viewMeasDataTable();"
+
+[MainCtrl0]
+Class="Function"
+Prototype="int MainCtrl0(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[LanTimer]
+Class="Function"
+Prototype="int LanTimer(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[MENU_Main]
+Class="Function"
+Prototype="void MENU_Main(int menuBar, int menuItem, void *callbackData, int panel);"
+
+[MENU_Manual]
+Class="Function"
+Prototype="void MENU_Manual(int menuBar, int menuItem, void *callbackData, int panel);"
+
+[MENU_Zeroset]
+Class="Function"
+Prototype="void MENU_Zeroset(int menuBar, int menuItem, void *callbackData, int panel);"
+
+[MENU_Worksel]
+Class="Function"
+Prototype="void MENU_Worksel(int menuBar, int menuItem, void *callbackData, int panel);"
+
+[Option_menu]
+Class="Function"
+Prototype="void Option_menu(int menuBar, int menuItem, void *callbackData, int panel);"
+
+[ResultViewA]
+Class="Function"
+Prototype="void ResultViewA(int menuBar, int menuItem, void *callbackData, int panel);"
+
+[Exit_Menu]
+Class="Function"
+Prototype="void Exit_Menu(int menuBar, int menuItem, void *callbackData, int panel);"
+
+[Comm_Menu]
+Class="Function"
+Prototype="void Comm_Menu(int menuBar, int menuItem, void *callbackData, int panel);"
+
+[Lan_Menu]
+Class="Function"
+Prototype="void Lan_Menu(int menuBar, int menuItem, void *callbackData, int panel);"
+
+[Posi_Menu]
+Class="Function"
+Prototype="void Posi_Menu(int menuBar, int menuItem, void *callbackData, int panel);"
+
+[Err_Menu]
+Class="Function"
+Prototype="void Err_Menu(int menuBar, int menuItem, void *callbackData, int panel);"
+
+[Opt_Menu]
+Class="Function"
+Prototype="void Opt_Menu(int menuBar, int menuItem, void *callbackData, int panel);"
+
+[Menu_Equ]
+Class="Function"
+Prototype="void Menu_Equ(int menuBar, int menuItem, void *callbackData, int panel);"
+
+[A_Start]
+Class="Function"
+Prototype="int A_Start(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[Menu_Bt]
+Class="Function"
+Prototype="int Menu_Bt(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[A_Table]
+Class="Function"
+Prototype="int A_Table(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[GetPasswordAttributes]
+Class="Function"
+Prototype="void GetPasswordAttributes(int hpanel);"
+
+[Sw_Int]
+Class="Function"
+Prototype="int Sw_Int(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[Select_Meas]
+Class="Function"
+Prototype="int Select_Meas(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[Inwork_Count]
+Class="Function"
+Prototype="int Inwork_Count(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[TotalTestNo]
+Class="Function"
+Prototype="int TotalTestNo(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[TotalTestNo2]
+Class="Function"
+Prototype="int TotalTestNo2(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[Ng_View]
+Class="Function"
+Prototype="int Ng_View(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[Mcid_View]
+Class="Function"
+Prototype="int Mcid_View(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[Profile_3d]
+Class="Function"
+Prototype="int Profile_3d(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[Runout_2d]
+Class="Function"
+Prototype="int Runout_2d(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[Dtv_2d]
+Class="Function"
+Prototype="int Dtv_2d(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[Angle_Calculate]
+Class="Function"
+Prototype="void Angle_Calculate(int sig);"
+
+[Cwscr]
+Class="Function"
+Prototype="int Cwscr(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[Mark_Menu]
+Class="Function"
+Prototype="void Mark_Menu(int menuBar, int menuItem, void *callbackData, int panel);"
+
+[View_DTV]
+Class="Function"
+Prototype="int View_DTV(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[Alarm_Delete]
+Class="Function"
+Prototype="int Alarm_Delete(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[A_Dataview]
+Class="Function"
+Prototype="int A_Dataview(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[Operate_No]
+Class="Function"
+Prototype="int Operate_No(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[Reset_Mc]
+Class="Function"
+Prototype="int Reset_Mc(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[TestTime2]
+Class="Function"
+Prototype="int TestTime2(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[TestTime3]
+Class="Function"
+Prototype="int TestTime3(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[COUNTViewOnOff]
+Class="Function"
+Prototype="void COUNTViewOnOff();"
+
+[Model_LR_Func]
+Class="Function"
+Prototype="int Model_LR_Func(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[Refer_Bt]
+Class="Function"
+Prototype="int Refer_Bt(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[SendDataToPlc]
+Class="Function"
+Prototype="void SendDataToPlc();"
+
+[ResetRFIDDataToPlc]
+Class="Function"
+Prototype="void ResetRFIDDataToPlc();"
+

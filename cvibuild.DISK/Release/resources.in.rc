@@ -1,0 +1,45 @@
+#include "C:\Program Files (x86)\National Instruments\Shared\MSDTRedistributables\SDKHeaderFiles\8.1\winver.h"
+
+2 ICON "c:\\program files (x86)\\national instruments\\cvi2017\\bin\\default.ico"
+1 24 "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\cvibuild.DISK\\Release\\manifest.xml"
+
+
+STRINGTABLE DISCARDABLE
+BEGIN
+  65535  "DISC"
+END
+
+VS_VERSION_INFO VERSIONINFO
+ FILEVERSION 1,0,0,0
+ PRODUCTVERSION 1,0,0,0
+ FILEFLAGSMASK VS_FFI_FILEFLAGSMASK
+ FILEFLAGS 0L
+ FILEOS VOS__WINDOWS32
+ FILETYPE VFT_APP
+ FILESUBTYPE VFT_UNKNOWN
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "040904b0"
+        BEGIN
+            VALUE "CompanyName", "KAMES\0"
+            VALUE "FileVersion", "1.0\0"
+            VALUE "InternalName", "INPUT\0"
+            VALUE "OriginalFilename", "KAMES\0"
+            VALUE "ProductName", "INPUT\0"
+            VALUE "ProductVersion", "1.0\0"
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x409, 0x4b0
+    END
+END
+
+KEYPAD.UIR UIRFileType "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\KEYPAD.UIR"
+main.uir UIRFileType "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\main.uir"
+manual.uir UIRFileType "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\manual.uir"
+Master.uir UIRFileType "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\Master.uir"
+model.uir UIRFileType "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\model.uir"
+MSG.UIR UIRFileType "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\MSG.UIR"
+resultview.uir UIRFileType "d:\\@PROJECT\\³²¾ç³Ø½º¸ð\\BDA3\\BD_A3_201224r0\\resultview.uir"

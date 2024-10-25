@@ -1,0 +1,156 @@
+[ModelDataSetup]
+Class="Function"
+Prototype="int ModelDataSetup(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[ModelDataSetup1]
+Class="Function"
+Prototype="int ModelDataSetup1(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[PgmLineIns]
+Class="Function"
+Prototype="void PgmLineIns();"
+
+[UpdateEquVar]
+Class="Function"
+Prototype="void UpdateEquVar(int col, int row, int width, int height);"
+
+[PgmLineDel]
+Class="Function"
+Prototype="void PgmLineDel();"
+
+[DelAllValue]
+Class="Function"
+Prototype="void DelAllValue();"
+
+[EquationDataSetup]
+Class="Function"
+Prototype="int EquationDataSetup(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[EquationDataSetup1]
+Class="Function"
+Prototype="int EquationDataSetup1(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[Remove]
+Class="Function"
+Prototype="int Remove(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[Remove1]
+Class="Function"
+Prototype="int Remove1(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[Rename]
+Class="Function"
+Prototype="int Rename(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[Rename1]
+Class="Function"
+Prototype="int Rename1(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[Add]
+Class="Function"
+Prototype="int Add(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[Add1]
+Class="Function"
+Prototype="int Add1(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[ModelSetup]
+Class="Function"
+Prototype="int ModelSetup(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[ModelSetup1]
+Class="Function"
+Prototype="int ModelSetup1(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[WorkerSetup]
+Class="Function"
+Prototype="int WorkerSetup(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[WorkerSetup1]
+Class="Function"
+Prototype="int WorkerSetup1(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[MakeCurrDir]
+Class="Function"
+Prototype="void MakeCurrDir();"
+
+[CalcChEqua]
+Class="Function"
+Prototype="void CalcChEqua();"
+
+[SaveModelName]
+Class="Function"
+Prototype="void SaveModelName();"
+
+[ModelChanged]
+Class="Function"
+Prototype="void ModelChanged();"
+
+[WriteTableData]
+Class="Function"
+Prototype="void WriteTableData();"
+
+[SendWorkID]
+Class="Function"
+Prototype="void SendWorkID();"
+
+[GetModelTableData]
+Class="Function"
+Prototype="int GetModelTableData();"
+
+[SetModelTableData]
+Class="Function"
+Prototype="int SetModelTableData();"
+
+[callModelsetup]
+Class="Function"
+Prototype="int callModelsetup(int panel, int event, void *callbackData, int eventData1, int eventData2);"
+
+[callEqusetup]
+Class="Function"
+Prototype="int callEqusetup(int panel, int event, void *callbackData, int eventData1, int eventData2);"
+
+[Test]
+Class="Function"
+Prototype="int Test(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[ChangeOn]
+Class="Function"
+Prototype="int ChangeOn(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[ChangeFinish]
+Class="Function"
+Prototype="int ChangeFinish(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[Modellist]
+Class="Function"
+Prototype="int Modellist(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[Refer_Bt6]
+Class="Function"
+Prototype="int Refer_Bt6(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[Save_Model]
+Class="Function"
+Prototype="int Save_Model(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[Manualctrl3]
+Class="Function"
+Prototype="int Manualctrl3(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[A_Dataview3]
+Class="Function"
+Prototype="int A_Dataview3(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[Zero_Set3]
+Class="Function"
+Prototype="int Zero_Set3(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[Mark_Set3]
+Class="Function"
+Prototype="int Mark_Set3(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[Manualctrl6]
+Class="Function"
+Prototype="int Manualctrl6(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+

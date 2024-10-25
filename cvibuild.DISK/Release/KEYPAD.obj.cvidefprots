@@ -1,0 +1,204 @@
+[fbs]
+Class="Function"
+Prototype="int fbs(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[fclr]
+Class="Function"
+Prototype="int fclr(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[fesc]
+Class="Function"
+Prototype="int fesc(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[fenter]
+Class="Function"
+Prototype="int fenter(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[fdot]
+Class="Function"
+Prototype="int fdot(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[fzero]
+Class="Function"
+Prototype="int fzero(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[minus]
+Class="Function"
+Prototype="int minus(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[plus]
+Class="Function"
+Prototype="int plus(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[fone]
+Class="Function"
+Prototype="int fone(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[ftwo]
+Class="Function"
+Prototype="int ftwo(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[fthree]
+Class="Function"
+Prototype="int fthree(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[ffour]
+Class="Function"
+Prototype="int ffour(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[ffive]
+Class="Function"
+Prototype="int ffive(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[fsix]
+Class="Function"
+Prototype="int fsix(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[fseven]
+Class="Function"
+Prototype="int fseven(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[feight]
+Class="Function"
+Prototype="int feight(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[fnine]
+Class="Function"
+Prototype="int fnine(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[faa]
+Class="Function"
+Prototype="int faa(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[fbb]
+Class="Function"
+Prototype="int fbb(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[fcc]
+Class="Function"
+Prototype="int fcc(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[fdd]
+Class="Function"
+Prototype="int fdd(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[fee]
+Class="Function"
+Prototype="int fee(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[fff]
+Class="Function"
+Prototype="int fff(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[fgg]
+Class="Function"
+Prototype="int fgg(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[fhh]
+Class="Function"
+Prototype="int fhh(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[fii]
+Class="Function"
+Prototype="int fii(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[fjj]
+Class="Function"
+Prototype="int fjj(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[fkk]
+Class="Function"
+Prototype="int fkk(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[fll]
+Class="Function"
+Prototype="int fll(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[fmm]
+Class="Function"
+Prototype="int fmm(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[fnn]
+Class="Function"
+Prototype="int fnn(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[foo]
+Class="Function"
+Prototype="int foo(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[fpp]
+Class="Function"
+Prototype="int fpp(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[fqq]
+Class="Function"
+Prototype="int fqq(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[frr]
+Class="Function"
+Prototype="int frr(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[fss]
+Class="Function"
+Prototype="int fss(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[ftt]
+Class="Function"
+Prototype="int ftt(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[fuu]
+Class="Function"
+Prototype="int fuu(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[fvv]
+Class="Function"
+Prototype="int fvv(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[fww]
+Class="Function"
+Prototype="int fww(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[fxx]
+Class="Function"
+Prototype="int fxx(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[fyy]
+Class="Function"
+Prototype="int fyy(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[fzz]
+Class="Function"
+Prototype="int fzz(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[fblank]
+Class="Function"
+Prototype="int fblank(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[keypanelfun]
+Class="Function"
+Prototype="int keypanelfun(int panel, int event, void *callbackData, int eventData1, int eventData2);"
+
+[fpadsort]
+Class="Function"
+Prototype="int fpadsort(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[callKEYPAD]
+Class="Function"
+Prototype="void callKEYPAD(int panel, int control, int event, int sort, void *pVariable, int varLen);"
+
+[sendNumDataToCell]
+Class="Function"
+Prototype="void sendNumDataToCell(int datatype, double numdata);"
+
+[sendNumDataToCtrl]
+Class="Function"
+Prototype="void sendNumDataToCtrl(int datatype, double numdata);"
+
+[HideAllKey]
+Class="Function"
+Prototype="void HideAllKey();"
+
+[SetNumToPadValue]
+Class="Function"
+Prototype="void SetNumToPadValue(int NumSort, int CtrlSort);"
+

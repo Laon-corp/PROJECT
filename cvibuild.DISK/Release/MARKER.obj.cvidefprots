@@ -1,0 +1,116 @@
+[ReadMarkData]
+Class="Function"
+Prototype="void ReadMarkData();"
+
+[SaveMarkData]
+Class="Function"
+Prototype="void SaveMarkData();"
+
+[RereadMarkData]
+Class="Function"
+Prototype="void RereadMarkData();"
+
+[MarkFontCallback]
+Class="Function"
+Prototype="int MarkFontCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[MarkHeightCallback]
+Class="Function"
+Prototype="int MarkHeightCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[MarkPitchCallback]
+Class="Function"
+Prototype="int MarkPitchCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[MarkPosXCallback]
+Class="Function"
+Prototype="int MarkPosXCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[MarkPosYCallback]
+Class="Function"
+Prototype="int MarkPosYCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[MarkDirCallback]
+Class="Function"
+Prototype="int MarkDirCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[MarkTestStrSend]
+Class="Function"
+Prototype="int MarkTestStrSend(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[MarkWidthLimitCallback]
+Class="Function"
+Prototype="int MarkWidthLimitCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[MarkStrSetChkCallback]
+Class="Function"
+Prototype="int MarkStrSetChkCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[MarkStartCallback]
+Class="Function"
+Prototype="int MarkStartCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[MarkStartFunc]
+Class="Function"
+Prototype="void MarkStartFunc();"
+
+[MarkStopCallback]
+Class="Function"
+Prototype="int MarkStopCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[MarkResetCallback]
+Class="Function"
+Prototype="int MarkResetCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[On_Marking]
+Class="Function"
+Prototype="void On_Marking();"
+
+[Make_YYMMDD]
+Class="Function"
+Prototype="void Make_YYMMDD();"
+
+[Make_YYMMDD2]
+Class="Function"
+Prototype="void Make_YYMMDD2();"
+
+[QRDataLabel]
+Class="Function"
+Prototype="void QRDataLabel();"
+
+[A_QRDataLabel]
+Class="Function"
+Prototype="void A_QRDataLabel();"
+
+[SendMarkingDataLabel]
+Class="Function"
+Prototype="void SendMarkingDataLabel();"
+
+[A_MarkingDataLabel]
+Class="Function"
+Prototype="void A_MarkingDataLabel();"
+
+[SendMarkingDataLabel2]
+Class="Function"
+Prototype="void SendMarkingDataLabel2();"
+
+[A_MarkingDataLabel2]
+Class="Function"
+Prototype="void A_MarkingDataLabel2();"
+
+[SendMarkingDataLabel3]
+Class="Function"
+Prototype="void SendMarkingDataLabel3();"
+
+[A_MarkingDataLabel3]
+Class="Function"
+Prototype="void A_MarkingDataLabel3();"
+
+[Dot_Start]
+Class="Function"
+Prototype="int Dot_Start(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[Dot_Start2]
+Class="Function"
+Prototype="int Dot_Start2(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+

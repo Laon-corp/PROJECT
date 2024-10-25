@@ -1,0 +1,12 @@
+[CalcChannels]
+Class="Function"
+Prototype="void CalcChannels();"
+
+[GetEquTableData]
+Class="Function"
+Prototype="int GetEquTableData();"
+
+[SetEquTableData]
+Class="Function"
+Prototype="int SetEquTableData();"
+

@@ -1,0 +1,140 @@
+[OpdPush]
+Class="Function"
+Prototype="double OpdPush(double buff);"
+
+[OpdPop]
+Class="Function"
+Prototype="double OpdPop();"
+
+[OpdIsEmpty]
+Class="Function"
+Prototype="int OpdIsEmpty();"
+
+[OpdIsFull]
+Class="Function"
+Prototype="int OpdIsFull();"
+
+[OpdGetData]
+Class="Function"
+Prototype="double OpdGetData();"
+
+[OptPush]
+Class="Function"
+Prototype="struct OptStacksData OptPush(struct OptStacksData buff);"
+
+[OptPop]
+Class="Function"
+Prototype="struct OptStacksData OptPop();"
+
+[OptIsEmpty]
+Class="Function"
+Prototype="int OptIsEmpty();"
+
+[OptIsFull]
+Class="Function"
+Prototype="int OptIsFull();"
+
+[OptGetData]
+Class="Function"
+Prototype="struct OptStacksData OptGetData();"
+
+[LstSqrPoly]
+Class="Function"
+Prototype="int LstSqrPoly(double *X, double *Y, int Num, int M, double *CalcData);"
+
+[PivotFunc]
+Class="Function"
+Prototype="void PivotFunc(double *a, double *b, int N, int k);"
+
+[SolveEqua]
+Class="Function"
+Prototype="void SolveEqua(double *A, double *B, int N, double *CalcData);"
+
+[CalcDia]
+Class="Function"
+Prototype="void CalcDia(double *data);"
+
+[CalcLine]
+Class="Function"
+Prototype="void CalcLine(double *data);"
+
+[CalcPlaneAx]
+Class="Function"
+Prototype="void CalcPlaneAx(double *data);"
+
+[CalcPlane]
+Class="Function"
+Prototype="void CalcPlane(double *data);"
+
+[CalcDir]
+Class="Function"
+Prototype="void CalcDir(double *data);"
+
+[CalcDist]
+Class="Function"
+Prototype="void CalcDist(double *data);"
+
+[CalcAngle]
+Class="Function"
+Prototype="void CalcAngle(double *data);"
+
+[CalcAngle2d]
+Class="Function"
+Prototype="void CalcAngle2d(double *data);"
+
+[MinMaxPt]
+Class="Function"
+Prototype="void MinMaxPt(int MinMax, double *data);"
+
+[MinMaxIdx]
+Class="Function"
+Prototype="void MinMaxIdx(int MinMax, double *data);"
+
+[CalcFunction]
+Class="Function"
+Prototype="void CalcFunction(int pgmnum, unsigned char func, double *data, int index);"
+
+[IsNumber10]
+Class="Function"
+Prototype="int IsNumber10(char c);"
+
+[IsNumber16]
+Class="Function"
+Prototype="int IsNumber16(char c);"
+
+[PriorityOrder]
+Class="Function"
+Prototype="int PriorityOrder(unsigned char ch);"
+
+[SubstituteString]
+Class="Function"
+Prototype="void SubstituteString(char *Str, char *SubStr, char *OperandStr);"
+
+[CalcProcess]
+Class="Function"
+Prototype="int CalcProcess(int pgmnum, int *num);"
+
+[Calculate]
+Class="Function"
+Prototype="int Calculate(int pgmnum, double *buff);"
+
+[Cvt2Bin]
+Class="Function"
+Prototype="int Cvt2Bin(int pgmnum, int equnum);"
+
+[CvtRealNum]
+Class="Function"
+Prototype="int CvtRealNum(int pgmnum, int equnum);"
+
+[GetChNum]
+Class="Function"
+Prototype="int GetChNum(int equnum, int *next, unsigned char *idx);"
+
+[ReplaceEqua]
+Class="Function"
+Prototype="void ReplaceEqua();"
+
+[getcamdegFunc]
+Class="Function"
+Prototype="double getcamdegFunc(int SenNo, int Pos, int EncNo);"
+

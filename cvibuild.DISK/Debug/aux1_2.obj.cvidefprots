@@ -1,0 +1,76 @@
+[OpenAUX1]
+Class="Function"
+Prototype="int OpenAUX1();"
+
+[CloseAUX1]
+Class="Function"
+Prototype="int CloseAUX1();"
+
+[SendDataAUX1]
+Class="Function"
+Prototype="int SendDataAUX1(int type, char *data);"
+
+[Calc_Check]
+Class="Function"
+Prototype="void Calc_Check(char *data);"
+
+[Calc_Check_Sum]
+Class="Function"
+Prototype="void Calc_Check_Sum(char *data);"
+
+[AUX1_Callback_Func]
+Class="Function"
+Prototype="void AUX1_Callback_Func(int portNo, int eventMask, void *callbackData);"
+
+[OpenAUX2]
+Class="Function"
+Prototype="int OpenAUX2();"
+
+[CloseAUX2]
+Class="Function"
+Prototype="int CloseAUX2();"
+
+[SendDataAUX2]
+Class="Function"
+Prototype="int SendDataAUX2(int type, char *data);"
+
+[AUX2_Callback_Func]
+Class="Function"
+Prototype="void AUX2_Callback_Func(int portNo, int eventMask, void *callbackData);"
+
+[OpenAUX3]
+Class="Function"
+Prototype="int OpenAUX3();"
+
+[CloseAUX3]
+Class="Function"
+Prototype="int CloseAUX3();"
+
+[SendDataAUX3]
+Class="Function"
+Prototype="int SendDataAUX3(int type, char *data);"
+
+[AUX3_Callback_Func]
+Class="Function"
+Prototype="void AUX3_Callback_Func(int portNo, int eventMask, void *callbackData);"
+
+[OpenAUX4]
+Class="Function"
+Prototype="int OpenAUX4();"
+
+[CloseAUX4]
+Class="Function"
+Prototype="int CloseAUX4();"
+
+[SendDataAUX4]
+Class="Function"
+Prototype="int SendDataAUX4(int type, char *data);"
+
+[AUX4_Callback_Func]
+Class="Function"
+Prototype="void AUX4_Callback_Func(int portNo, int eventMask, void *callbackData);"
+
+[MarkInit_Label]
+Class="Function"
+Prototype="void MarkInit_Label();"
+

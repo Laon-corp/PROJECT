@@ -1,0 +1,128 @@
+[DoZeroSet]
+Class="Function"
+Prototype="int DoZeroSet(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[ZeroSetupFinish]
+Class="Function"
+Prototype="void ZeroSetupFinish();"
+
+[ZeroSetupFinish1]
+Class="Function"
+Prototype="void ZeroSetupFinish1();"
+
+[ZeroSetupFinish2]
+Class="Function"
+Prototype="void ZeroSetupFinish2();"
+
+[ZeroDataSetup]
+Class="Function"
+Prototype="int ZeroDataSetup(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[ZeroDataSetup1]
+Class="Function"
+Prototype="int ZeroDataSetup1(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[ZeroSetCtrlSt1Dimmed]
+Class="Function"
+Prototype="void ZeroSetCtrlSt1Dimmed(char flag);"
+
+[GetZeroTableData]
+Class="Function"
+Prototype="int GetZeroTableData();"
+
+[SetZeroTableData]
+Class="Function"
+Prototype="int SetZeroTableData();"
+
+[Tip_Command]
+Class="Function"
+Prototype="int Tip_Command(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[DoZeroSet1]
+Class="Function"
+Prototype="int DoZeroSet1(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[DoZeroSet2]
+Class="Function"
+Prototype="int DoZeroSet2(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[Zero_Set_N_Limit]
+Class="Function"
+Prototype="void Zero_Set_N_Limit();"
+
+[Zero_Set_P_Limit]
+Class="Function"
+Prototype="void Zero_Set_P_Limit();"
+
+[Save_calbiration_Data]
+Class="Function"
+Prototype="void Save_calbiration_Data();"
+
+[Read_calbiration_Data]
+Class="Function"
+Prototype="void Read_calbiration_Data();"
+
+[Read_Master_Dis]
+Class="Function"
+Prototype="void Read_Master_Dis();"
+
+[Save_Master_Dis]
+Class="Function"
+Prototype="void Save_Master_Dis();"
+
+[Display_N_LIMIT]
+Class="Function"
+Prototype="void Display_N_LIMIT(int count);"
+
+[Display_P_LIMIT]
+Class="Function"
+Prototype="void Display_P_LIMIT(int count);"
+
+[ZeroSetMode]
+Class="Function"
+Prototype="int ZeroSetMode(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[Master_Retry]
+Class="Function"
+Prototype="int Master_Retry(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[DoZeroSet3]
+Class="Function"
+Prototype="int DoZeroSet3(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[DoZeroSet4]
+Class="Function"
+Prototype="int DoZeroSet4(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[AirZeroSet1]
+Class="Function"
+Prototype="int AirZeroSet1(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[AirZeroSet2]
+Class="Function"
+Prototype="int AirZeroSet2(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[Ch_Timer]
+Class="Function"
+Prototype="int Ch_Timer(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[Refer_Bt3]
+Class="Function"
+Prototype="int Refer_Bt3(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[Modelsetup6]
+Class="Function"
+Prototype="int Modelsetup6(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[A_Dataview6]
+Class="Function"
+Prototype="int A_Dataview6(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[ZeroSave]
+Class="Function"
+Prototype="void ZeroSave();"
+
+[DoZeroSet5]
+Class="Function"
+Prototype="int DoZeroSet5(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+

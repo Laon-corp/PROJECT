@@ -1,0 +1,80 @@
+[calc_out_data]
+Class="Function"
+Prototype="void calc_out_data(int bit, int set);"
+
+[PlcOutCommSend]
+Class="Function"
+Prototype="void PlcOutCommSend();"
+
+[PlcInCommSend]
+Class="Function"
+Prototype="void PlcInCommSend();"
+
+[PlcGetInFromBuff]
+Class="Function"
+Prototype="void PlcGetInFromBuff();"
+
+[PLC_IO_Function]
+Class="Function"
+Prototype="void PLC_IO_Function(int portNo, int eventMask, void *callbackData);"
+
+[PLCOpen]
+Class="Function"
+Prototype="int PLCOpen();"
+
+[PLCClose]
+Class="Function"
+Prototype="void PLCClose();"
+
+[initPLC]
+Class="Function"
+Prototype="void initPLC();"
+
+[PLCPortSend]
+Class="Function"
+Prototype="void PLCPortSend();"
+
+[MainCtrlSet]
+Class="Function"
+Prototype="void MainCtrlSet(char OnOff);"
+
+[PlcTimer]
+Class="Function"
+Prototype="int PlcTimer(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[MeasValueCls]
+Class="Function"
+Prototype="void MeasValueCls();"
+
+[MeasValueCls2]
+Class="Function"
+Prototype="void MeasValueCls2();"
+
+[MeasStart]
+Class="Function"
+Prototype="void MeasStart(char flag, char Sig);"
+
+[MeasEscFunc]
+Class="Function"
+Prototype="void MeasEscFunc();"
+
+[DispCylStatus]
+Class="Function"
+Prototype="void DispCylStatus();"
+
+[TimeDataSend]
+Class="Function"
+Prototype="void TimeDataSend();"
+
+[ServoDataSend_Total]
+Class="Function"
+Prototype="void ServoDataSend_Total();"
+
+[AlarmDataFunc]
+Class="Function"
+Prototype="void AlarmDataFunc(char *str, char flag);"
+
+[check_iomon]
+Class="Function"
+Prototype="void check_iomon();"
+

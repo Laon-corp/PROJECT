@@ -1,0 +1,33 @@
+AMPCOM1.obj
+aux1_2.obj
+CalcFunc.obj
+EQUATION.obj
+KEYPAD.obj
+MAIN.obj
+manualctrl.obj
+MARKER.obj
+modelsetup.obj
+MSG.obj
+PLC.obj
+resultview.obj
+THREAD.obj
+USERFUNC.obj
+zerosetup.obj
+cvi.lib
+analysis.lib
+ckspc.obj
+cviauto.lib
+cvistart.lib
+3DGraphCtrl.obj
+kernel32.lib
+pwctrl.obj
+spc.obj
+toolbox.obj
+user32.lib
+advapi32.lib
+gdi32.lib
+LEGEND.OBJ
+uuid.lib
+EXE Symbol Module
+Exports Module
+Resource Module
